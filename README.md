@@ -40,14 +40,14 @@ ParamSpider Allows you to Fetch URLs Related to any Domain or a List of Domains 
 To Install `paramspider`, Follow These Steps:
 
 ```sh
-git clone https://github.com/PushkraJ99/ParamSpider
-cd ParamSpider
+git clone https://github.com/Jayaprawin/Paramspider
+cd Paramspider
 pip install .
 paramspider -h
 ```
 OR
 ```sh
-git clone https://github.com/PushkraJ99/ParamSpider ; cd ParamSpider pip install . ; paramspider -h
+git clone https://github.com/Jayaprawin/Paramspider ; cd ParamSpider pip install . ; paramspider -h
 ```
 
 If You Are Using Kali Linux and Getting Error `paramspider not found` try This Command
