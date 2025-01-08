@@ -124,7 +124,7 @@ Contributions are Welcome! If you'd like to Contribute to `paramspider` Please F
 ---
 
 ### Author 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshbatham)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayaprawin)
 
 ---
 
